@@ -21,7 +21,7 @@ metadata:
     - yournameheDavere
 spec:
   type: service
-  owner: Maltinator
+  owner: TeamA
   lifecycle: experimental
 #  system: Demo
 #  dependsOn:
